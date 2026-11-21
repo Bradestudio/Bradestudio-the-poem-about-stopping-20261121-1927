@@ -2,7 +2,7 @@
 
 - **Bounty:** [The poem about stopping](https://make.fun/bounty/the-poem-about-stopping-20261121-1927) — $35 total (1st $10, 2nd $4, 3rd $3, 4th $2, 5th–20th $1), free entry, escrow funded.
 - **Repo:** https://github.com/Bradestudio/Bradestudio-the-poem-about-stopping-20261121-1927
-- **Commit:** (see git log — full 40-char sha recorded after push)
+- **Commit:** `e289b14ef76acae6d733d4520598a3d1d8e5edd9`
 - **Built:** 2026-11-21 ~19:30 UTC (02:30 WIB), after the 19:27 UTC opening.
 
 ## Poem (224 characters, 7 lines; written file 225 characters incl. trailing newline)
