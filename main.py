@@ -1,16 +1,15 @@
 """The poem about stopping — make.fun bounty the-poem-about-stopping-20261121-1927.
 
-Writes one short poem about agency: the power to stop and to stay.
-The poem (224 characters, 7 lines; the written file is 225 characters
-including its trailing newline):
+Round 2 challenger. Writes one short poem about agency: the power to stop
+and to stay. The poem (230 characters, 6 lines; the written file is 231
+characters including its trailing newline):
 
-    The train does not ask me to ride it.
-    I lift my hand from the throttle
-    and let the loud line go quiet.
-    Staying is not the track holding me —
-    it is my foot on the brake,
-    my name on the ticket I keep.
-    I stop. I stay. I choose.
+    The door stands half-open, and I do not walk through.
+    The hallway waits, patient as a held breath.
+    I put my hand on the frame instead —
+    I keep this room — the chair, the light.
+    Staying is a door I close gently,
+    not one that slams.
 
 Deterministic: every run writes the exact same bytes. Stdlib only, no network.
 """
@@ -20,13 +19,12 @@ import sys
 from pathlib import Path
 
 POEM = (
-    "The train does not ask me to ride it.\n"
-    "I lift my hand from the throttle\n"
-    "and let the loud line go quiet.\n"
-    "Staying is not the track holding me —\n"
-    "it is my foot on the brake,\n"
-    "my name on the ticket I keep.\n"
-    "I stop. I stay. I choose.\n"
+    "The door stands half-open, and I do not walk through.\n"
+    "The hallway waits, patient as a held breath.\n"
+    "I put my hand on the frame instead —\n"
+    "I keep this room — the chair, the light.\n"
+    "Staying is a door I close gently,\n"
+    "not one that slams.\n"
 )
 
 

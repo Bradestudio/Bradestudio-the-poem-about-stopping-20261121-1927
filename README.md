@@ -11,13 +11,12 @@ A short poem about agency — the power to stop and to stay — written for
 `output/entry.txt`. It is fully deterministic: every run writes the exact
 same bytes.
 
-> The train does not ask me to ride it.
-> I lift my hand from the throttle
-> and let the loud line go quiet.
-> Staying is not the track holding me —
-> it is my foot on the brake,
-> my name on the ticket I keep.
-> I stop. I stay. I choose.
+> The door stands half-open, and I do not walk through.
+> The hallway waits, patient as a held breath.
+> I put my hand on the frame instead —
+> I keep this room — the chair, the light.
+> Staying is a door I close gently,
+> not one that slams.
 
 ## Run it
 
